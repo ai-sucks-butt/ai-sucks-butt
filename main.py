@@ -1,0 +1,1 @@
+assert 'AI sucks butt'
